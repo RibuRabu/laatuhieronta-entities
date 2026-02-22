@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://laatuhieronta.fi/#page-paivittaminen",
+  "url": "https://laatuhieronta.fi/paivittaminen",
+  "name": "Milloin omavalvontaa päivitetään – ja milloin ei tarvitse",
+  "isPartOf": { "@id": "https://laatuhieronta.fi/#website" },
+  "publisher": { "@id": "https://laatuhieronta.fi/#org" },
+  "inLanguage": "fi"
+}
