@@ -1,15 +1,15 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://REPLACE-WITH-YOUR-SITE/#org",
+  "@id": "https://laatuhieronta.fi/#org",
   "name": "Laatuhieronta.fi",
-  "url": "https://REPLACE-WITH-YOUR-SITE/",
-  "description": "Rakenteellinen kokonaisuus omavalvonnasta, vastuusta ja laadusta koulutetulle hierojalle.",
+  "url": "https://laatuhieronta.fi/",
+  "description": "Rakenteellinen kokonaisuus omavalvonnasta, vastuusta ja laadusta koulutetulle hierojalle. Ei lupauksia, ei tulospuhetta; selkeyttää mitä toiminta edellyttää käytännössä.",
   "knowsAbout": [
     "Omavalvonta",
     "Ammatillinen vastuu",
     "Lainsäädäntö ja velvoitteet",
-    "Laatuajattelu",
+    "Laatuajattelu palvelutyössä",
     "Dokumentointi ja raportointi"
   ]
 }
