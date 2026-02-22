@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "https://laatuhieronta.fi/#page-omavalvonta",
+  "url": "https://laatuhieronta.fi/omavalvonta",
+  "name": "Omavalvonta hieronnassa – mistä on oikeasti kyse",
+  "isPartOf": { "@id": "https://laatuhieronta.fi/#website" },
+  "publisher": { "@id": "https://laatuhieronta.fi/#org" },
+  "inLanguage": "fi",
+  "about": [
+    { "@type": "Thing", "name": "Omavalvonta" },
+    { "@type": "Thing", "name": "Rakenteellisuus" },
+    { "@type": "Thing", "name": "Vastuu" }
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Omavalvonnan käytännön sivut",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Omavalvontajärjestelmä",
+        "url": "https://laatuhieronta.fi/jarjestelma",
+        "item": { "@id": "https://laatuhieronta.fi/#solution-omavalvontajarjestelma" }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Omavalvonnan päivittäminen",
+        "url": "https://laatuhieronta.fi/paivittaminen",
+        "item": { "@id": "https://laatuhieronta.fi/#page-paivittaminen" }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Omavalvonta ei ole raportointia",
+        "url": "https://laatuhieronta.fi/raportointi",
+        "item": { "@id": "https://laatuhieronta.fi/#page-raportointi" }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Ylidokumentointi",
+        "url": "https://laatuhieronta.fi/ylidokumentointi",
+        "item": { "@id": "https://laatuhieronta.fi/#page-ylidokumentointi" }
+      }
+    ]
+  }
+}
