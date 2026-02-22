@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://REPLACE-WITH-YOUR-SITE/#website",
+  "url": "https://REPLACE-WITH-YOUR-SITE/",
+  "name": "Laatuhieronta.fi",
+  "publisher": { "@id": "https://REPLACE-WITH-YOUR-SITE/#org" },
+  "inLanguage": "fi",
+  "description": "Omavalvonta, vastuu ja laatu koulutetulle hierojalle. Rakenteellinen kokonaisuus: mitä se edellyttää, miten se jäsennetään ja miten sitä ylläpidetään.",
+  "hasPart": [
+    { "@id": "https://REPLACE-WITH-YOUR-SITE/#page-home" },
+    { "@id": "https://REPLACE-WITH-YOUR-SITE/#page-omavalvonta" },
+    { "@id": "https://REPLACE-WITH-YOUR-SITE/#page-vastuu-laki" },
+    { "@id": "https://REPLACE-WITH-YOUR-SITE/#page-laatuajattelu" },
+    { "@id": "https://REPLACE-WITH-YOUR-SITE/#solution-omavalvontajarjestelma" }
+  ]
+}
