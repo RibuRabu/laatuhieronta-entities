@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://laatuhieronta.fi/#page-raportointi",
+  "url": "https://laatuhieronta.fi/raportointi",
+  "name": "Omavalvonta ei ole raportointia – miksi nämä sekoitetaan",
+  "isPartOf": { "@id": "https://laatuhieronta.fi/#website" },
+  "publisher": { "@id": "https://laatuhieronta.fi/#org" },
+  "inLanguage": "fi"
+}
