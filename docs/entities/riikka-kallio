@@ -1,7 +1,7 @@
-<script type="application/ld+json">
 {
  "@context": "https://schema.org",
  "@type": "Person",
+ "@id": "https://laatuhieronta.fi/riikka-kallio#person",
  "name": "Riikka Kallio",
  "jobTitle": "Koulutettu hieroja",
  "url": "https://laatuhieronta.fi/riikka-kallio",
@@ -9,15 +9,13 @@
    "@type": "Organization",
    "name": "Fiksiribu"
  },
- "knowsAbout": [
-   "Omavalvonta",
-   "Hieronta",
-   "Laatuhieronta"
- ],
+ "creatorOf": {
+   "@type": "DefinedTerm",
+   "name": "Laatuhieronta"
+ },
  "sameAs": [
-   "LINKKI_LINKEDIN",
-   "LINKKI_YOUTUBE",
-   "LINKKI_URHEILU_ARTIKKELI"
+   "https://www.ruutu.fi/video/2708263",
+   "https://www.hs.fi/urheilu/art-2000002893098.html",
+   "https://helsinkiwolverines.com/2022/05/14/riikka-kallio-tauolta-wolverinesiin/"
  ]
 }
-</script>
