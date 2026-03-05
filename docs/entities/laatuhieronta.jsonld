@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://data.laatuhieronta.fi/laatuhieronta/#set",
+  "name": "Laatuhieronta",
+  "description": "Laatuhieronta on koulutetun hierojan omavalvonnan jäsentämiseen tarkoitettu rakenteellinen ajattelumalli.",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/omavalvonta/#term",
+      "name": "Omavalvonta hieronnassa"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/laatuajattelu/#term",
+      "name": "Laatuajattelu"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/ylidokumentointi-hieronnassa/#term",
+      "name": "Ylidokumentointi hieronnassa"
+    }
+  ]
+}
