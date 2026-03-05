@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-  <loc>https://laatuhieronta.fi/</loc>
-</url>
+  <url>
+    <loc>https://laatuhieronta.fi/</loc>
+  </url>
 
-<url>
-  <loc>https://laatuhieronta.fi/#tietoa</loc>
-</url>
+  <url>
+    <loc>https://laatuhieronta.fi/riikka-kallio</loc>
+  </url>
 
-<url>
-  <loc>https://laatuhieronta.fi/#vastuu</loc>
-</url>
+  <url>
+    <loc>https://laatuhieronta.fi/omavalvonta-koulutettu-hieroja</loc>
+  </url>
 
-<url>
-  <loc>https://laatuhieronta.fi/#laatu</loc>
-</url>
+  <url>
+    <loc>https://laatuhieronta.fi/milloin-omavalvontaa-paivitetaan</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/vastuu-ja-lainsaadanto</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/tietoa</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/omavalvonta-ei-ole-raportointia</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/omavalvontajarjestelma</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/laatuajattelu</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/ylidokumentointi-hieronnassa</loc>
+  </url>
+
+  <url>
+    <loc>https://laatuhieronta.fi/omavalvonta</loc>
+  </url>
 
 </urlset>
