@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Person",
+ "name": "Riikka Kallio",
+ "jobTitle": "Koulutettu hieroja",
+ "url": "https://laatuhieronta.fi/riikka-kallio",
+ "worksFor": {
+   "@type": "Organization",
+   "name": "Fiksiribu"
+ },
+ "knowsAbout": [
+   "Omavalvonta",
+   "Hieronta",
+   "Laatuhieronta"
+ ],
+ "sameAs": [
+   "LINKKI_LINKEDIN",
+   "LINKKI_YOUTUBE",
+   "LINKKI_URHEILU_ARTIKKELI"
+ ]
+}
+</script>
