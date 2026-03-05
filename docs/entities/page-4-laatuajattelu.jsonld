@@ -1,10 +1,14 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://laatuhieronta.fi/#page-laatuajattelu",
-  "url": "https://laatuhieronta.fi/laatuajattelu",
-  "name": "Laatuajattelu hieronnassa",
-  "isPartOf": { "@id": "https://laatuhieronta.fi/#website" },
-  "publisher": { "@id": "https://laatuhieronta.fi/#org" },
-  "inLanguage": "fi"
+ "@context": "https://schema.org",
+ "@type": "Article",
+ "@id": "https://laatuhieronta.fi/#page-laatuajattelu",
+ "url": "https://laatuhieronta.fi/laatuajattelu",
+ "name": "Laatuajattelu hieronnassa",
+
+ "isPartOf": { "@id": "https://laatuhieronta.fi/#website" },
+
+ "about": { "@id": "https://data.laatuhieronta.fi/laatuhieronta/#set" },
+
+ "publisher": { "@id": "https://laatuhieronta.fi/#org" },
+ "inLanguage": "fi"
 }
