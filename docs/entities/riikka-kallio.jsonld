@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://data.laatuhieronta.fi/riikka-kallio#person",
+  "name": "Riikka Kallio",
+  "url": "https://data.laatuhieronta.fi/riikka-kallio/",
+  "jobTitle": "Koulutettu hieroja",
+  "inLanguage": "fi",
+  "description": "Riikka Kallio on koulutettu hieroja ja Laatuhieronta-ajattelurakenteen kehittäjä. Hän on rakentanut mallin jäsentämään koulutetun hierojan omavalvontaa, vastuun kohdentumista ja dokumentoinnin rakennetta.",
+  "creatorOf": {
+    "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset"
+  },
+  "worksFor": {
+    "@id": "https://data.laatuhieronta.fi/organization#org"
+  },
+  "sameAs": [
+    "https://www.ruutu.fi/video/2708263",
+    "https://www.hs.fi/urheilu/art-2000002893098.html",
+    "https://helsinkiwolverines.com/2022/05/14/riikka-kallio-taoutla-wolverinesiin/"
+  ]
+}
