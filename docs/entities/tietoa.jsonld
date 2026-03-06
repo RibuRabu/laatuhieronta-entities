@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://data.laatuhieronta.fi/tietoa#article",
+  "url": "https://laatuhieronta.fi/tietoa",
+  "name": "Tietoa",
+  "inLanguage": "fi",
+  "isPartOf": {
+    "@id": "https://data.laatuhieronta.fi/website#site"
+  },
+  "about": {
+    "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset"
+  },
+  "publisher": {
+    "@id": "https://data.laatuhieronta.fi/organization#org"
+  }
+}
