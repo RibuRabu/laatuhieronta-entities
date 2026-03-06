@@ -13,7 +13,7 @@
     "@id": "https://data.laatuhieronta.fi/riikka-kallio#person",
     "name": "Riikka Kallio",
     "jobTitle": "Koulutettu hieroja",
-    "description": "Riikka Kallio on koulutettu hieroja ja Laatuhieronta-ajattelurakenteen kehittäjä. Rakenteen tarkoitus on jäsentää koulutetun hierojan omavalvontaa, vastuun kohdentumista ja toiminnan dokumentointia.",
+    "description": "Riikka Kallio on koulutettu hieroja ja Laatuhieronta-ajattelurakenteen kehittäjä. Hän on rakentanut rakenteen jäsentämään koulutetun hierojan omavalvontaa, vastuun kohdentumista ja dokumentoinnin rakennetta.",
     "creatorOf": {
       "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset"
     },
