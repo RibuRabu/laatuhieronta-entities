@@ -1,34 +1,49 @@
 {
   "@context": "https://schema.org",
-  "@type": "Article",
-  "@id": "https://data.laatuhieronta.fi/laatuajattelu#article",
-  "url": "https://laatuhieronta.fi/laatuajattelu",
-  "name": "Laatuajattelu",
+  "@type": "DefinedTermSet",
+  "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset",
+  "name": "Laatuhieronta",
+  "url": "https://laatuhieronta.fi/",
   "inLanguage": "fi",
-  "isPartOf": {
-    "@id": "https://data.laatuhieronta.fi/website#site"
+  "description": "Laatuhieronta on koulutetun hierojan omavalvonnan jäsentämiseen tarkoitettu rakenteellinen ajattelukehys. Se tekee näkyväksi vastuun, velvoitteiden jäsentymisen ja dokumentoinnin rakenteen ilman että se itsessään tulkitsee lakia tai lupaa sääntelymukaisuutta.",
+  "creator": {
+    "@id": "https://data.laatuhieronta.fi/riikka-kallio#person"
   },
-  "about": [
+  "hasDefinedTerm": [
     {
-      "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset"
-    },
-    {
-      "@type": "Thing",
-      "name": "Laatuajattelu"
-    },
-    {
-      "@type": "Thing",
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/omavalvonta#term",
       "name": "Omavalvonta"
     },
     {
-      "@type": "Thing",
-      "name": "Ammatillinen vastuu"
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/laatuajattelu#term",
+      "name": "Laatuajattelu"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/ylidokumentointi-hieronnassa#term",
+      "name": "Ylidokumentointi hieronnassa"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/vastuu-ja-lainsaadanto#term",
+      "name": "Vastuu ja lainsäädäntö"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/omavalvonta-ei-ole-raportointia#term",
+      "name": "Omavalvonta ei ole raportointia"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/milloin-omavalvontaa-paivitetaan#term",
+      "name": "Milloin omavalvontaa päivitetään"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://data.laatuhieronta.fi/omavalvontajarjestelma#term",
+      "name": "Omavalvontajärjestelmä"
     }
-  ],
-  "author": {
-    "@id": "https://data.laatuhieronta.fi/riikka-kallio#person"
-  },
-  "publisher": {
-    "@id": "https://data.laatuhieronta.fi/organization#org"
-  }
+  ]
 }
