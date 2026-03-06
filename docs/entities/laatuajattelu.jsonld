@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "https://data.laatuhieronta.fi/laatuajattelu#article",
+  "url": "https://laatuhieronta.fi/laatuajattelu",
+  "name": "Laatuajattelu",
+  "inLanguage": "fi",
+  "isPartOf": {
+    "@id": "https://data.laatuhieronta.fi/website#site"
+  },
+  "about": [
+    {
+      "@id": "https://data.laatuhieronta.fi/laatuhieronta#termset"
+    },
+    {
+      "@type": "Thing",
+      "name": "Laatuajattelu"
+    },
+    {
+      "@type": "Thing",
+      "name": "Omavalvonta"
+    },
+    {
+      "@type": "Thing",
+      "name": "Ammatillinen vastuu"
+    }
+  ],
+  "author": {
+    "@id": "https://data.laatuhieronta.fi/riikka-kallio#person"
+  },
+  "publisher": {
+    "@id": "https://data.laatuhieronta.fi/organization#org"
+  }
+}
